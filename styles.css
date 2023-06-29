@@ -9,11 +9,11 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: #525a44;
+    background: #ffd91a;
 }
 
 .header {
-    background-color: #292e28;
+    background-color: #505418;
     height: 80px;
     position: absolute;
     /* para que el contenido siempre este flotante y fijo*/
@@ -33,7 +33,7 @@ body {
 }
 
 .nav-link {
-    color: rgb(251, 255, 0);
+    color: rgb(185, 186, 116);
     text-decoration: none;
 }
 
@@ -129,8 +129,8 @@ body {
 
 .slider .slide .info {
     position: absolute;
-    color: rgb(238, 255, 0);
-    background: rgba(126, 123, 123, 0.3);
+    color: rgb(255, 255, 255);
+    background: rgba(178, 174, 174, 0.3);
     width: 75%;
     margin-top: 50px;
     margin-left: 50px;
